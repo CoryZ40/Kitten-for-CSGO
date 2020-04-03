@@ -40,7 +40,7 @@
     "@node-steam/vdf": "2.1.0",
     "winreg": "1.2.4",
     "download": "7.1.0",
-    "decompress": "4.2.0",
+    "decompress": "4.2.1",
     "i18next": "19.0.2",
     "i18next-sync-fs-backend": "1.1.1",
     "howler": "2.1.3"
